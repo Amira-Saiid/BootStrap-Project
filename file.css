@@ -1,0 +1,93 @@
+
+h1 {
+
+font-size: 80px; 
+font-family: Georgia Header ;
+font-stretch: expanded;
+font-weight:bolder;
+}
+h2 {
+font-family: Times New Roman;
+
+}
+
+
+.rounded-circle {
+  
+  display: inline-block;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  border-radius: 30%;
+  border:2px solid white;
+}
+h6{
+	font-family:Times New Roman ;
+	font-size: 15px;
+}
+h5 {
+	font-family:Times New Roman ;
+	font-weight:bold;
+	font-size: 17px;
+}
+	
+
+
+
+h3{
+ font-size: 150px;
+ }
+h4 {
+font-family: Californian FB;
+font-weight: bold;
+
+}
+.jumbotron{
+   background-size: cover;
+	
+    
+}
+#one{
+font-family: 'Lucida Console';
+font-color: white;
+}
+
+#two{
+font-color: grey;
+text-align: center;
+}
+p {
+ font-family: 'Lucida Console';
+ font-weight:normal;
+
+  
+  }
+#three {
+ font-size: 200px;
+ font-family: Georgia Header ;
+
+ }
+ #four {
+ font-color:orange;
+ }
+ 
+ #five{
+ text-align:left-side;
+ }
+ .btn {
+ font-family: 'Lucida console';
+ font-size: 18px;
+ border: 2px solid black;
+  background-color: transparent;
+  color: black;
+  }
+  
+  .transparent 
+  {
+	  background-color: rgba(0,0,0,0);
+	  border-top:2px;
+	  border-right:2px;
+	  border-left:2px;
+	  
+	  }
